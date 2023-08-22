@@ -30,6 +30,9 @@ h2, h4, p {
   border-radius: 5px;
   overflow: hidden;
   box-shadow: 2px 3px 7px 0px rgba(0, 0, 0, .35);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #top-section {
